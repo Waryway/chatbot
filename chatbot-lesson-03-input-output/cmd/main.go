@@ -33,8 +33,8 @@ func main() {
 
 	fmt.Println("Hello, World!")
 	fmt.Println("I am Echo! Please tell me something to say by typing it in, and pressing enter!")
-	_, _ = f.WriteString("Hello, World!")
-	_, _ = f.WriteString("I am Echo! Please tell me something to say by typing it in, and pressing enter!")
+	_, _ = f.WriteString("Hello, World! \n")
+	_, _ = f.WriteString("I am Echo! Please tell me something to say by typing it in, and pressing enter! \n")
 	// Stop when we see "bye"
 	for input != "bye" {
 
