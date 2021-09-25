@@ -1,14 +1,14 @@
-# Chatbot - Lesson 03 I/O
-This is the second Chatbot lesson from IWBTD.com.
+# Chatbot - Lesson 04 Organization
+This is the fourth Chatbot lesson from IWBTD.com.
 
 ## Running the example:
 From the root of the repository (the directory where the LICENSE files lives), run the following command
 
 ##### Windows
-`go run chatbot-lesson-03-input-output\cmd\main.go`
+`go run chatbot-lesson-04-organize\cmd\main.go`
 
 ##### Linux
-`go run chatbot-lesson-03-input-output/cmd/main.go`
+`go run chatbot-lesson-04-organize/cmd/main.go`
 
 ### Output
 
